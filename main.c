@@ -51,7 +51,6 @@ int main()
                 {
                     r=controller_Gonzalez_loadPilotos(pArrayListPilotos);
                     r=controller_Gonzalez_loadFromText(pArraListVuelos);
-                    cargarpiloto(pArrayListPilotos);
                     flagLoad=r;
                     verifyReturn("Carga completada.\n","Error en la carga\n",r);
                 }
