@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1593521328 source:c:\users\lucio\desktop\modeloparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593520598 c:\users\lucio\desktop\modeloparcial\linkedlist.h
+
+1593519817 source:c:\users\lucio\desktop\modeloparcial\showdata.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593519817 c:\users\lucio\desktop\modeloparcial\controller.h
+
+1593433510 c:\users\lucio\desktop\modeloparcial\employee.h
+
+1593470175 c:\users\lucio\desktop\modeloparcial\parser.h
+
+1593472359 c:\users\lucio\desktop\modeloparcial\showdata.h
+
+1593520482 c:\users\lucio\desktop\modeloparcial\functions.h
+
+1592001689 c:\users\lucio\desktop\modeloparcial\utngenericfunctions.h
+
+1593456503 source:c:\users\lucio\desktop\modeloparcial\utngenericfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593520525 source:c:\users\lucio\desktop\modeloparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593433549 source:c:\users\lucio\desktop\modeloparcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593520292 source:c:\users\lucio\desktop\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593521328 source:c:\users\lucio\desktop\modeloparcial\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593518279 source:c:\users\lucio\desktop\modeloparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593472624 source:c:\users\lucio\desktop\modeloparcial\pilotos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
+1593471922 c:\users\lucio\desktop\modeloparcial\pilotos.h
+
+1593462501 c:\users\lucio\desktop\modeloparcial\vuelos.h
+
+1593472416 source:c:\users\lucio\desktop\modeloparcial\vuelos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Vuelos.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+	"Pilotos.h"
+
