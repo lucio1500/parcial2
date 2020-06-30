@@ -7,3 +7,4 @@ int filtrarPortugal(void* pElement);
 int filtrarVuelosCortos(void* pElement);
 int filtrarPiloto(void* pElement);
 int filtrarPilotoNombre(void* pElement,char* nombre);
+int listPiloto(LinkedList* pArrayListPilotos,int index);

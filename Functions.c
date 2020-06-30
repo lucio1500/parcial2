@@ -258,7 +258,7 @@ int filtrarPiloto(void* pElement)
 int filtrarPilotoNombre(void* pElement,char* nombre)
 {
     int r=0;
-    char* auxNombre[128];
+    char auxNombre[128];
     Piloto* pPiloto;
 
     if(pElement!=NULL)

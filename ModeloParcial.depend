@@ -20,15 +20,15 @@
 	"UtnGenericFunctions.h"
 	"Pilotos.h"
 
-1593519817 c:\users\lucio\desktop\modeloparcial\controller.h
+1593522379 c:\users\lucio\desktop\modeloparcial\controller.h
 
 1593433510 c:\users\lucio\desktop\modeloparcial\employee.h
 
-1593470175 c:\users\lucio\desktop\modeloparcial\parser.h
+1593522411 c:\users\lucio\desktop\modeloparcial\parser.h
 
 1593472359 c:\users\lucio\desktop\modeloparcial\showdata.h
 
-1593520482 c:\users\lucio\desktop\modeloparcial\functions.h
+1593522411 c:\users\lucio\desktop\modeloparcial\functions.h
 
 1592001689 c:\users\lucio\desktop\modeloparcial\utngenericfunctions.h
 
@@ -44,7 +44,7 @@
 	"Functions.h"
 	"UtnGenericFunctions.h"
 
-1593520525 source:c:\users\lucio\desktop\modeloparcial\controller.c
+1593522339 source:c:\users\lucio\desktop\modeloparcial\controller.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -69,7 +69,7 @@
 	"Functions.h"
 	"UtnGenericFunctions.h"
 
-1593520292 source:c:\users\lucio\desktop\modeloparcial\main.c
+1593522345 source:c:\users\lucio\desktop\modeloparcial\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -82,7 +82,7 @@
 	"UtnGenericFunctions.h"
 	"Pilotos.h"
 
-1593521328 source:c:\users\lucio\desktop\modeloparcial\functions.c
+1593522436 source:c:\users\lucio\desktop\modeloparcial\functions.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

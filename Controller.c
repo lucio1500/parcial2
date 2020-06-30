@@ -226,14 +226,14 @@ int controller_Gonzalez_Filtrar(LinkedList* pArrayListVuelos,LinkedList* pArrayL
     return r;
 }
 
-/** \brief Shows flights excluding a pilot.
+/** \brief Shows pilots excluding a pilot.
  *
  * \param pArrayListVuelos LinkedList*
  * \param pArrayListPilotos LinkedList*
  * \return int
  *
  */
-int controller_Gonzalez_FiltrarNombre(LinkedList* pArrayListVuelos,LinkedList* pArrayListPilotos)
+int controller_Gonzalez_FiltrarNombre(LinkedList* pArrayListPilotos)
 {
     int r=-1;
     char nombre[128];
@@ -241,7 +241,7 @@ int controller_Gonzalez_FiltrarNombre(LinkedList* pArrayListVuelos,LinkedList* p
     Piloto* pPiloto;
     LinkedList* pArrayFilter = ll_newLinkedList();
 
-    if(pArrayListVuelos!=NULL && pArrayListPilotos!=NULL)
+    if(pArrayListPilotos!=NULL)
     {
 
     controller_Gonzalez_ListPiloto(pArrayListPilotos);

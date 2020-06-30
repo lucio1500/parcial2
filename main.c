@@ -129,7 +129,7 @@ int main()
             case 8:
                 if(flagOption==0)
                 {
-                    controller_Gonzalez_FiltrarNombre(pArraListVuelos,pArrayListPilotos);
+                    controller_Gonzalez_FiltrarNombre(pArrayListPilotos);
                     verifyReturn("Listado con exito.\n","Error al listar\n",r);
                 }
                 else
